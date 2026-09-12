@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/nitin-chandra-28/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/nitin-chandra-28/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nitin-chandra-28/DSA/tree/master/0143-reorder-list) |
 ## Two Pointers
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/nitin-chandra-28/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/nitin-chandra-28/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
