@@ -38,8 +38,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nitin-chandra-28/DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nitin-chandra-28/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
