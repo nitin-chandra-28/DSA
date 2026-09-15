@@ -33,16 +33,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nitin-chandra-28/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitin-chandra-28/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nitin-chandra-28/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitin-chandra-28/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/nitin-chandra-28/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nitin-chandra-28/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitin-chandra-28/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
