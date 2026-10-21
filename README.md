@@ -83,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/nitin-chandra-28/DSA/tree/master/1052-grumpy-bookstore-owner) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
