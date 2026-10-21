@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/nitin-chandra-28/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/nitin-chandra-28/DSA/tree/master/0518-coin-change-ii) |
@@ -86,13 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitin-chandra-28/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
